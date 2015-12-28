@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Distribute Panes Evenly'
+      'command': 'distribute-panes:distribute-evenly'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'distribute-panes'
+      'submenu': [
+        {
+          'label': 'Distribute Panes Evenly'
+          'command': 'distribute-panes:distribute-evenly'
+        }
+      ]
+    ]
+  }
+]
