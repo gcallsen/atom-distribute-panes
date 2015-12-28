@@ -13,3 +13,7 @@ within your visible column width.
 
 This is most helpful when used with a package such as
 [Atom Pane Layout](https://github.com/chemoish/atom-pane-layout)
+
+## Demo
+
+![pane-layout](https://raw.github.com/gcallsen/atom-distribute-panes/master/distribute-sm.gif)

@@ -1,14 +1,14 @@
 {
   "name": "distribute-panes",
   "main": "./lib/distribute-panes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Distribute any open panes evenly.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "distribute-panes:distribute-evenly"
   },
-  "repository": "https://github.com/atom/distribute-panes",
+  "repository": "https://github.com/gcallsen/atom-distribute-panes",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
